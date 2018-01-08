@@ -250,3 +250,4 @@ Examples
 The Filemapper extension was largely extracted out of the [puppet-network][puppet-network]
 module. That code base should display the weird edge cases that this extension
 handles.
+
